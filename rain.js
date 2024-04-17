@@ -10,6 +10,7 @@ function dropText() {
   canvas.width = window.innerWidth-4
   canvas.height = window.innerHeight-4
   canvas.height = window.innerHeight-4
+  canvas.height = window.innerHeight-4
 
   //获得2d上下文对象
   var ctx = canvas.getContext('2d');
