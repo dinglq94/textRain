@@ -40,7 +40,7 @@ function dropText() {
   }
 
   function draw() {
-    ctx.fillStyle = `rgba(255,255,255,0.1)`;
+    ctx.fillStyle = `rgba(255,255,255,0.2)`;
     ctx.fillRect(0, 0, window.innerWidth, window.innerHeight);
 
     ctx.font = "14px Georgia";
